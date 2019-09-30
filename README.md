@@ -65,5 +65,3 @@
       - CNN 개념 이해
       - Best CNN 개념 이해
 
-***
-# df-AI
